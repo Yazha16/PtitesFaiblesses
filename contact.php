@@ -52,7 +52,6 @@
 	<!-- End All Pages -->
 	
 	<!-- Start Contact -->
-	<div class="map-full"></div>
 	<div class="contact-box">
 		<div class="container">
 			<div class="row">
@@ -69,32 +68,19 @@
 						<div class="row">
 							<div class="col-md-12">
 								<div class="form-group">
-									<input type="text" class="form-control" id="name" name="name" placeholder="Your Name" required data-error="Please enter your name">
+									<input type="text" class="form-control" id="name" name="name" placeholder="Votre nom" required data-error="Entrer votre nom s'il vous plait">
 									<div class="help-block with-errors"></div>
 								</div>                                 
 							</div>
 							<div class="col-md-12">
 								<div class="form-group">
-									<input type="text" placeholder="Your Email" id="email" class="form-control" name="name" required data-error="Please enter your email">
-									<div class="help-block with-errors"></div>
-								</div> 
-							</div>
-							<div class="col-md-12">
-								<div class="form-group">
-									<select class="custom-select d-block form-control" id="guest" required data-error="Please Select Person">
-									  <option disabled selected>Please Select Person*</option>
-									  <option value="1">1</option>
-									  <option value="2">2</option>
-									  <option value="3">3</option>
-									  <option value="4">4</option>
-									  <option value="5">5</option>
-									</select>
+									<input type="text" placeholder="Votre Mail" id="email" class="form-control" name="name" required data-error="Entrer votre mail s'il vous plait">
 									<div class="help-block with-errors"></div>
 								</div> 
 							</div>
 							<div class="col-md-12">
 								<div class="form-group"> 
-									<textarea class="form-control" id="message" placeholder="Your Message" rows="4" data-error="Write your message" required></textarea>
+									<textarea class="form-control" id="message" placeholder="Votre Message" rows="4" data-error="Ecriver votre message" required></textarea>
 									<div class="help-block with-errors"></div>
 								</div>
 								<div class="submit-button text-center">
@@ -137,18 +123,5 @@
 	<script src="js/form-validator.min.js"></script>
     <script src="js/contact-form-script.js"></script>
     <script src="js/custom.js"></script>
-	<script>
-		$('.map-full').mapify({
-			points: [
-				{
-					lat: 40.7143528,
-					lng: -74.0059731,
-					marker: true,
-					title: 'Marker title',
-					infoWindow: 'Live Dinner Restaurant'
-				}
-			]
-		});	
-	</script>
 </body>
 </html>

@@ -42,7 +42,20 @@
 	<div id="slides" class="cover-slides">
 		<ul class="slides-container">
 			<li class="text-left">
-				<img src="images/slider-01.jpg" alt="">
+				<img src="images/1.png" alt="">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="m-b-20"><strong>Bienvenu aux <br> P'tites Faiblesses</strong></h1>
+							<p class="m-b-40">See how your users experience your website in realtime or view  <br> 
+							trends to see any changes in performance over time.</p>
+							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Reservation</a></p>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li class="text-left">
+				<img src="images/9.png" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
@@ -55,20 +68,7 @@
 				</div>
 			</li>
 			<li class="text-left">
-				<img src="images/slider-02.jpg" alt="">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-12">
-							<h1 class="m-b-20"><strong>Welcome To <br> Live Dinner Restaurant</strong></h1>
-							<p class="m-b-40">See how your users experience your website in realtime or view  <br> 
-							trends to see any changes in performance over time.</p>
-							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Reservation</a></p>
-						</div>
-					</div>
-				</div>
-			</li>
-			<li class="text-left">
-				<img src="images/slider-03.jpg" alt="">
+				<img src="images/13.png" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
@@ -102,7 +102,7 @@
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12">
-					<img src="images/about-img.jpg" alt="" class="img-fluid">
+					<img src="images/15.png" alt="" class="img-fluid">
 				</div>
 			</div>
 		</div>
@@ -382,33 +382,33 @@
 			<div class="tz-gallery">
 				<div class="row">
 					<div class="col-sm-12 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-01.jpg">
-							<img class="img-fluid" src="images/gallery-img-01.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/1.png">
+							<img class="img-fluid" src="images/1.png" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-02.jpg">
-							<img class="img-fluid" src="images/gallery-img-02.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/2.png">
+							<img class="img-fluid" src="images/2.png" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-03.jpg">
-							<img class="img-fluid" src="images/gallery-img-03.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/3.png">
+							<img class="img-fluid" src="images/3.png" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-12 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-04.jpg">
-							<img class="img-fluid" src="images/gallery-img-04.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/5.png">
+							<img class="img-fluid" src="images/5.png" alt="Gallery Images">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-05.jpg">
-							<img class="img-fluid" src="images/gallery-img-05.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/7.png">
+							<img class="img-fluid" src="images/7.png" alt="Gallery Images">
 						</a>
 					</div> 
 					<div class="col-sm-6 col-md-4 col-lg-4">
-						<a class="lightbox" href="images/gallery-img-06.jpg">
-							<img class="img-fluid" src="images/gallery-img-06.jpg" alt="Gallery Images">
+						<a class="lightbox" href="images/12.png">
+							<img class="img-fluid" src="images/12.png" alt="Gallery Images">
 						</a>
 					</div>
 				</div>
