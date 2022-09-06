@@ -362,7 +362,7 @@ button:focus{
 
 
 .qt-background{
-	background: url(../images/qt-bg.jpg) no-repeat;
+	background: url(../images/6.PNG) no-repeat;
 	background-size: cover;
 	padding: 100px 0;
 	background-attachment: fixed;
@@ -774,10 +774,17 @@ button:focus{
 /*------------------------------------------------------------------
     All Pages
 -------------------------------------------------------------------*/
+.menu-im { 
+width: 100%;  
+height: 250px;  
+background-color: #565D4D;  
+object-fit: none;  
+object-position: center top;  
 
+}
 .page-breadcrumb {
-    padding: 250px 0 150px;
-    background: url(../images/all-bg.jpg) no-repeat;
+    padding:0px 0 150px;
+    background-color:#565D4D;
     background-attachment: fixed;
     background-size: cover;
     background-position: 0 0;
@@ -788,7 +795,6 @@ button:focus{
 	z-index: 2;
 }
 .all-page-title::before{
-	background: #010101;
 	content: "";
 	height: 100%;
 	left: 0;
