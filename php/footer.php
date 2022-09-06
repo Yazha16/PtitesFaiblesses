@@ -18,9 +18,9 @@ echo '
                 </form>
             </div>
             <ul class="list-inline f-social">
-                <li class="list-inline-item"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                <li class="list-inline-item"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                <li class="list-inline-item"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                <li class="list-inline-item"><a href="https://fr-fr.facebook.com/lesptitesfaiblesses"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                <li class="list-inline-item"><a href="https://www.google.com/search?q=les+petites+faiblesses&rlz=1C1GCEU_frFR994FR994&oq=&sourceid=chrome&ie=UTF-8"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                <li class="list-inline-item"><a href="https://www.instagram.com/lesptitesfaiblesses/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
             </ul>
         </div>
         <div class="col-lg-3 col-md-6">
