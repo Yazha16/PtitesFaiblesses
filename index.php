@@ -37,7 +37,18 @@
 	<!-- Start header -->
 		<?php include('php/header.php'); ?>
 	<!-- End header -->
-	
+		<?php
+		/*include('php/fcts_connect.php');
+			
+		$idc=connect();
+
+		$query = "SELECT plat_nom, plat_descr FROM plat";
+		$result = $idc->query($query);
+		while ($row = $result->fetch_row()) {
+			echo $row[0];
+			echo $row[1];
+		}*/
+		?>
 	<!-- Start slides -->
 	<div id="slides" class="cover-slides">
 		<ul class="slides-container">
